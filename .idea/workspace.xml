@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2e86bcb-0622-4a52-9e50-ea5a9b2f87fa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CoreJavaPrep/CoreJavaPrep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tablet-Automation/Android/Android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tablet-Automation/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tablet-Automation/Tablet-Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tablet-Automation/iOS/iOS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../VenturePulseServices/VenturePulseServices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai/deep-learning-february/v2-rl-quadcopter/.idea/v2-rl-quadcopter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/SafariConference/SafariConference.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_3/.idea/Project_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_3/Index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/.idea/Project_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/controllers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/db/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/models/block.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/models/memPool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/models/requestObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/models/requestObjectValidated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/models/star.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blockchain/Project_4/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gson-2.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/java-json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.json-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mongo-java-driver-3.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.41-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-6.0.6-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testng-6.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/ConnectSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../develop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-ds/DS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pnt/Mobile-Automation/Android/Android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pnt/Mobile-Automation/Common/Common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pnt/Mobile-Automation/Mobile-Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pnt/Mobile-Automation/iOS/iOS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pnt/UnitTesting/UnitTesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pnt/VP-Services/VP-Services.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pnt/VP-Services/VPService/VPService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pnt/maven/maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pnt/my-app/my-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sts/bc-project-data-explorer/.idea/bc-project-data-explorer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sts/bc-project-data-explorer/data2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sts/project-private-bc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sts/project-private-bc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sts/project-private-bc/.idea/project-private-bc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sts/project-private-bc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sts/project-private-bc/levelDBSandBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udacity/bc/Project_5_Starter_Code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udacity/bc/Project_5_Starter_Code/.idea/Project_5_Starter_Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udacity/bc/Project_5_Starter_Code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udacity/bc/Project_5_Starter_Code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udacity/bc/Project_5_Starter_Code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udacity/bc/Project_5_Starter_Code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vp/automation/asyncoperation/asyncoperation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../webservise/flatiron-app/flatiron-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tablet-Automation/Android/src/test/java/phone/SnapChatHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tablet-Automation/Android/src/test/java/phone/SnapChatHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tablet-Automation/Generic/src/main/java/commonApi/Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tablet-Automation/iOS/src/test/java/iPhone/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tablet-Automation/iOS/src/test/java/iPhone/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__cglib_cglib_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__com_google_guava_guava_17_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__io_appium_java_client_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__io_netty_netty_3_5_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__net_java_dev_jna_jna_3_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_15_v20140411.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_15_v20140411.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_15_v20140411.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_eclipse_jetty_jetty_websocket_8_1_15_v20140411.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_json_json_20080701.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_43_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_43_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_43_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_43_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_43_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_43_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_43_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_43_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_43_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__org_webbitserver_webbit_0_4_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/Android/Android.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/Android/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/Android/src/app/WhatsApp.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/Android/src/app/snapchat.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/Android/src/main/java/data/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/Android/src/test/java/phone/SnapChatHome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/Android/src/test/resources/snapChatAppTestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/Common/Common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/Common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/Common/src/main/java/commonApi/Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/Mobile-Automation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/iOS/iOS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/iOS/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/iOS/src/app/UICatalog6.1.app.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/iOS/src/test/java/iPhone/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/iOS/src/test/resources/cataLogAppTestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pnt/Mobile-Automation/Android/src/main/java/login_pagefactory/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../pnt/Mobile-Automation/Android/src/main/java/login_pagefactory/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/.idea/artifacts/STS_S1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S1/.idea/artifacts/STS_S1_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/STS-S1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S1/STS-S1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/src/main/java/com/sts/DispatchMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/src/main/java/com/sts/MessageContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/src/main/java/com/sts/MyResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S1/src/main/java/com/sts/MyResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/target/STS-S1.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S1/target/STS-S1.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/target/STS-S1/WEB-INF/classes/com/sts/DispatchMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S1/target/STS-S1/WEB-INF/classes/com/sts/DispatchMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/target/STS-S1/WEB-INF/classes/com/sts/MyResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S1/target/STS-S1/WEB-INF/classes/com/sts/MyResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/target/classes/com/sts/DispatchMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/target/classes/com/sts/MessageContent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/target/classes/com/sts/MyResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S1/target/classes/com/sts/MyResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S2/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S2/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S2/bin/www" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S2/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S2/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sts/STS-S2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../sts/STS-S2/package.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ConnectSqlDB.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/db/ConnectSqlDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#7238#7244#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/db/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="secret.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/secret.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/db/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+              <folding>
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/db/User.java" />
+        <option value="$PROJECT_DIR$/src/db/Student.java" />
+        <option value="$PROJECT_DIR$/secret.properties" />
+        <option value="$PROJECT_DIR$/src/db/ConnectSqlDB.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3" />
+    <option name="y" value="23" />
+    <option name="width" value="1391" />
+    <option name="height" value="823" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project10" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project10" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="ConnectSqlDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="db.ConnectSqlDB" />
+      <module name="project10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConnectSqlDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2e86bcb-0622-4a52-9e50-ea5a9b2f87fa" name="Default" comment="" />
+      <created>1585781692691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585781692691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3" y="23" width="1391" height="823" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28437918" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19266714" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.69559413" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/db/ConnectSqlDB.java</url>
+          <line>250</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/db/ConnectSqlDB.java</url>
+          <line>244</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/db/ConnectSqlDB.java</url>
+          <line>249</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/db/ConnectSqlDB.java</url>
+          <line>206</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/db/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secret.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db/ConnectSqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7238#7244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>project10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
