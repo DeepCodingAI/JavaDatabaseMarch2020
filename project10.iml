@@ -37,15 +37,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/testng-6.8.7.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/gson-2.6.2.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -67,6 +58,15 @@
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/javax.json-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/testng-6.8.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
